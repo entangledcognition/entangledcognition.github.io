@@ -15,7 +15,7 @@ As a Developer with Idea you will have the flexibility to choose main mebers and
 
 all developers who involved will have a equal share as Founder and also commitee members.
 
-Please visit our site for more information [EntangledCognition](entangledcognition.github.io).
+Please visit our site for more information [EntangledCognition](https://entangledcognition.github.io/).
 
 
 
